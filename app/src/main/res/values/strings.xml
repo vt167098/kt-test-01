@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kt-test-01</string>
+    <string name="happy_birthday_text">生日快樂! Jason</string>
+    <string name="signature_text">from 辛蒂</string>
+</resources>
